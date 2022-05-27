@@ -1,0 +1,4 @@
+idCliente,direccion,correoElectronico,numeroDocumento
+1,Calle 1,cliente@correo.com,12345678
+2,Calle 2,cliente2@correo.com,12345679
+3,Calle 3,cliente3@correo.com,22345679
